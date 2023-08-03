@@ -1,6 +1,6 @@
-# Message Beautifier Bot
+# tg-message-beautifier
 
-The Message Beautifier Bot is a simple Telegram bot that beautifies messages by adding a start and end tag to the text. It uses the Telethon library to interact with the Telegram API.
+The tg-message-beatufier is a simple script that beautifies messages by adding a start and end tag to the text. It uses the Telethon library to interact with the Telegram API.
 
 ## Prerequisites
 
