@@ -5,7 +5,7 @@ from time import time
 from telethon.sync import TelegramClient, events
 from telethon.tl.types import PeerChannel
 
-from myconfig import api_id, api_hash, message, userbot, modules
+from config import api_id, api_hash, message, userbot, modules
 
 
 @dataclass
