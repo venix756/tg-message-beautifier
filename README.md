@@ -1,6 +1,6 @@
 # tg-message-beautifier
 
-The tg-message-beautifier is a simple script that beautifies messages by adding a start and end tag to the text. It uses the Telethon library to interact with the Telegram API.
+The tg-message-beautifier is a simple script that beautifies Telegram messages. It uses the Telethon library to interact with the Telegram API.
 
 ## Prerequisites
 
